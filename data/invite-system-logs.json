@@ -1,0 +1,23 @@
+[
+  {
+    "action": "join",
+    "inviterId": "1387209879516745769",
+    "invitedUserId": "302000331900846093",
+    "invitedUsername": "84kx",
+    "timestamp": 1790979845769
+  },
+  {
+    "action": "join",
+    "inviterId": "1354927760719741010",
+    "invitedUserId": "489766348071632936",
+    "invitedUsername": "47723",
+    "timestamp": 1790979937324
+  },
+  {
+    "action": "join",
+    "inviterId": "1354927760719741010",
+    "invitedUserId": "757164262656573461",
+    "invitedUsername": "12qsw",
+    "timestamp": 1790979971686
+  }
+]
